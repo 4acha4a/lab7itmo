@@ -1,2 +1,0 @@
-add 1;1;1;1;KILOGRAMS;lalka;lolka;TRUST;lal;123;123
-A
